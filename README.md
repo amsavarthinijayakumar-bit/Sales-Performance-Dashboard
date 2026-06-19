@@ -59,3 +59,6 @@ Profit Margin: ~26% — healthy margin across the business
 * Prioritize Florida and Orlando for expansion — highest profit margins
 * Investigate New York — high sales but lower profitability suggests pricing or cost issues
 * Focus inventory on Markers and Office Supplies — highest return on investment
+
+  ## Dashboard Preview
+[Sales Performance Dashboard](Dashboard.png)
